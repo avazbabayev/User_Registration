@@ -15,13 +15,7 @@ if (isset($_SESSION['first_name'])) {
 }
 echo '!</h1>';
 ?>
-<p>Spam spam spam spam spam spam
-spam spam spam spam spam spam 
-spam spam spam spam spam spam 
-spam spam spam spam spam spam.</p>
-<p>Spam spam spam spam spam spam
-spam spam spam spam spam spam 
-spam spam spam spam spam spam 
-spam spam spam spam spam spam.</p>
+<p>Hi</p><br/>
+<p>Hello </p>
 
 <?php include ('includes/footer.html'); ?>
